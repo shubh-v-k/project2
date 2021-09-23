@@ -1,0 +1,1 @@
+This Project is designed to provide a static web page to a placement training company who provide excellent placement training and facilites to students across the nation. They ensure that students get placed well in their dream companies and help them in fulfilling their dreams.
